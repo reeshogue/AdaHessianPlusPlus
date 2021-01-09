@@ -1,2 +1,2 @@
-# AdaHessianPlusPlus
-A version of AdaHessian, AdaHessian++, with Lookahead and DiffGrad.
+# AdaHessian++
+A modification of AdaHessian, AdaHessian++, with Lookahead and DiffGrad.
